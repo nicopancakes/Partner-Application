@@ -7,4 +7,4 @@ This bot sends a message after a set message, made for partnering channels.
 
 https://github.com/nicopancakes/Partner-Application/releases
 
-I recommend installing from releases, otherwise the README.md file will addon an extra 219 Bytes.
+I recommend installing from releases, otherwise the README.md file will addon an extra 318 Bytes.
